@@ -16,6 +16,7 @@
                                     <th>Название</th>
                                     <th>Тип</th>
                                     <th>Персонажи</th>
+                                    <th>Персонажи</th>
                                 </tr>
                             </thead>
                             <tbody class="">
